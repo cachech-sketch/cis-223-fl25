@@ -8,11 +8,7 @@ let timesWatered = 0;
 function myCheck(){  timesWatered=0
     if (timesWatered ===waterCap)
        return anchor.y.flower=20
-        // return console.log ("you have  grown  a flower!")
-    // i dont know how  to add a flower
-
-    
-}
+   
 
 // Ben
 
